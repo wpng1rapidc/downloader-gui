@@ -7,3 +7,4 @@ Note campaign results
 Improve logging format
 Document retry policy
 Update deletion logs
+Update plan for next release
