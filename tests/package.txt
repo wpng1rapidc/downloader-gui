@@ -1,15 +1,1 @@
-Expand integration tests
-Update board minutes
-Refine SEO checklist
-Note conference topics
-Review architecture decisions
-Note campaign results
-Improve logging format
-Document retry policy
-Update deletion logs
-Update plan for next release
-Update API limits
-Note dataset sources
-Note suspicious patterns
-Record compliance status
-Check anomaly alerts
+Fix minor issues in workflow
