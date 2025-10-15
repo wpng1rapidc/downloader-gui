@@ -1,3 +1,4 @@
 Record CI/CD pipeline
 Analyze customer data
 Note training epochs
+Review caching strategy
