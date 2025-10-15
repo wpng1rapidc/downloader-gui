@@ -9,3 +9,4 @@ Document retry policy
 Update deletion logs
 Update plan for next release
 Update API limits
+Note dataset sources
