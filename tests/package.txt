@@ -1,12 +1,1 @@
-List open vulnerabilities
-List missing coverage
-Review cost savings
-Update pricing table
-Update legal references
-Check ISO documents
-Draft opportunity list
-Draft mitigation guide
-Update pager duty notes
-Summarize version bumps
-Track timeline adjustments
-List rotation schedule
+Update governance notes
