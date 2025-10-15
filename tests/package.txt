@@ -1,3 +1,4 @@
 Record certificate renewals
 Record shift handovers
 Draft appreciation post
+Check monitoring alerts
