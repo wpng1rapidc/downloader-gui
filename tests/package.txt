@@ -4,3 +4,4 @@ Record inflation impact
 Draft feature flag list
 Plan oncall shifts
 Check shipment status
+Draft sales strategy
