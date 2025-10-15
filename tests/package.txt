@@ -6,3 +6,4 @@ Record validation scores
 Review caching strategy
 Check benchmark scores
 Prepare case studies
+Plan resource allocation
