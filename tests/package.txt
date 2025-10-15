@@ -5,3 +5,4 @@ Check monitoring alerts
 Record sign-off notes
 Update threat model
 Summarize deployment logs
+Record retention schedule
