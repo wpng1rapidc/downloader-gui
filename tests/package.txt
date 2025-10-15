@@ -12,3 +12,4 @@ Update API limits
 Note dataset sources
 Note suspicious patterns
 Record compliance status
+Check anomaly alerts
