@@ -6,3 +6,4 @@ List domain records
 Summarize audits
 Note pipeline DAG
 List UI components
+Track configuration drift
