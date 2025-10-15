@@ -1,10 +1,1 @@
-Note conference topics
-Update SSL chain
-Record inflation impact
-Draft feature flag list
-Plan oncall shifts
-Check shipment status
-Draft sales strategy
-Prepare hiring plan
-Summarize CI logs
-Draft onboarding steps
+Record expense items
