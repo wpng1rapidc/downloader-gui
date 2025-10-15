@@ -5,3 +5,4 @@ Review caching strategy
 List domain records
 Summarize audits
 Note pipeline DAG
+List UI components
