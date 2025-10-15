@@ -1,7 +1,1 @@
-Draft routing policies
-Note sprint outcome
-Plan rebranding steps
-Summarize referral data
-Analyze customer data
-Record restore attempt
-Plan workshop agenda
+Draft release checklist
