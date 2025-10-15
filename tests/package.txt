@@ -1,3 +1,4 @@
 Draft partnership ideas
 Summarize quota usage
 Record progress KPIs
+Record stakeholder feedback
