@@ -1,1 +1,2 @@
 Check localization files
+List vendor options
