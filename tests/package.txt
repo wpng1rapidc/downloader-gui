@@ -4,3 +4,4 @@ Refine SEO checklist
 Note conference topics
 Review architecture decisions
 Note campaign results
+Improve logging format
