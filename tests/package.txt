@@ -4,3 +4,4 @@ Plan rebranding steps
 Summarize referral data
 Analyze customer data
 Record restore attempt
+Plan workshop agenda
