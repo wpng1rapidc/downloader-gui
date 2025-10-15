@@ -1,6 +1,1 @@
-Fix minor issues in workflow
-List rotation schedule
-Update redundancy notes
-Update changelog with details
-Summarize exec summary
-Draft container images
+List open vulnerabilities
