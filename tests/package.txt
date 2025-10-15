@@ -1,2 +1,3 @@
 Record expense items
 Draft QA strategy
+Draft pseudonymization plan
