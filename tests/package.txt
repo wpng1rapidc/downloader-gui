@@ -1,3 +1,4 @@
 Expand integration tests
 Update board minutes
 Refine SEO checklist
+Note conference topics
