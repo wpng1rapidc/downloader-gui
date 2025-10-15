@@ -1,3 +1,4 @@
 Plan rebranding steps
 Update deletion logs
 Record key rotation plan
+Update redundancy notes
