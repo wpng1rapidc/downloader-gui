@@ -1,4 +1,1 @@
-Check localization files
-List vendor options
-Record hackathon ideas
-Draft appreciation post
+Plan rebranding steps
