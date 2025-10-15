@@ -1,2 +1,3 @@
 Fix minor issues in workflow
 List rotation schedule
+Update redundancy notes
