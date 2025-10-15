@@ -7,3 +7,4 @@ Check shipment status
 Draft sales strategy
 Prepare hiring plan
 Summarize CI logs
+Draft onboarding steps
