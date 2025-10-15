@@ -1,1 +1,2 @@
 Plan rebranding steps
+Update deletion logs
