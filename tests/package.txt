@@ -4,3 +4,4 @@ Record progress KPIs
 Record stakeholder feedback
 Clarify design goals
 Record CSS tweaks
+Summarize employee feedback
