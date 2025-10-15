@@ -4,3 +4,4 @@ Record key rotation plan
 Update redundancy notes
 Record validation scores
 Review caching strategy
+Check benchmark scores
