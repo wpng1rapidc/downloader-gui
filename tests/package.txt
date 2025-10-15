@@ -3,3 +3,4 @@ List booth designs
 Check customs docs
 Draft contest plan
 Summarize risks identified
+Note delivery issues
