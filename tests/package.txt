@@ -8,3 +8,4 @@ Record HR initiatives
 Draft mockup notes
 Summarize KPIs
 Update SOC reports
+Update recognition board
