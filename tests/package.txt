@@ -3,3 +3,4 @@ Plan data migration
 Summarize rollout success
 Update alerting rules
 List vendor options
+Record NPS score
