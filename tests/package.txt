@@ -3,3 +3,4 @@ List known limitations
 Document hotfix steps
 Prepare hiring plan
 Note registry updates
+Note alignment checks
