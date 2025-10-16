@@ -19,3 +19,4 @@ Review architecture decisions
 Capture UI feedback
 Track library updates
 Log strategic initiatives
+Summarize compliance checks
