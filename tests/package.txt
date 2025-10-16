@@ -5,3 +5,4 @@ Prepare hiring plan
 Note registry updates
 Note alignment checks
 Record user stories
+Log board decisions
