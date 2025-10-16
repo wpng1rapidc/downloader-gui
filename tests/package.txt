@@ -4,3 +4,4 @@ Summarize SIEM setup
 Update editorial calendar
 Summarize journalist list
 Note provider options
+Draft onboarding checklist
