@@ -1,3 +1,4 @@
 Check build artifacts
 Update mentoring plan
 Update recognition board
+Update logging sinks
