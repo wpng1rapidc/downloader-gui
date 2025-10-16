@@ -7,3 +7,4 @@ Record procurement steps
 Summarize rollout success
 Check localization files
 Summarize validation data
+Record CSS tweaks
