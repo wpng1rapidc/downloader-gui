@@ -2,3 +2,4 @@ Summarize content audit
 List known limitations
 Document hotfix steps
 Prepare hiring plan
+Note registry updates
