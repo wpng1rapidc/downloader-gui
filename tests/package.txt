@@ -1,11 +1,1 @@
-Note latency spikes
-Plan data migration
-Summarize rollout success
-Update alerting rules
-List vendor options
-Record NPS score
-Note identity checks
-Draft SSO integration
-Draft mitigation guide
-Note blocker list
-Draft sales strategy
+List semantic changes
