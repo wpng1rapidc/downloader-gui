@@ -5,3 +5,4 @@ Record feature votes
 Record license info
 Record procurement steps
 Summarize rollout success
+Check localization files
