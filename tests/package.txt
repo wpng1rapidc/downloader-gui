@@ -4,3 +4,4 @@ Update recognition board
 Update logging sinks
 Update release notes
 Note improvement ideas
+Record HR initiatives
