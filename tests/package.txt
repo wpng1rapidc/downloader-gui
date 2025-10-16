@@ -3,3 +3,4 @@ Record cache purge steps
 Draft partnership ideas
 Note legal risks
 Draft PR highlights
+List hypothesis tests
