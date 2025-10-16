@@ -8,3 +8,4 @@ Record user stories
 Log board decisions
 Draft cloud budget
 Record inflation impact
+Summarize warehouse logs
