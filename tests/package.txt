@@ -3,3 +3,4 @@ Summarize rollout success
 Check burndown chart
 Record feature votes
 Record license info
+Record procurement steps
