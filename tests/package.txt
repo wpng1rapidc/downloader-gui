@@ -1,11 +1,1 @@
-Note investment options
-Update portfolio deck
-Summarize SIEM setup
-Update editorial calendar
-Summarize journalist list
-Note provider options
-Draft onboarding checklist
-Draft support script
-Check expiry dates
-Record underfit case
-Capture SWOT notes
+Record conversion data
