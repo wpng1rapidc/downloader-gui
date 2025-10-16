@@ -15,3 +15,4 @@ Summarize regularization notes
 Note interest changes
 Update rollback notes
 Log post-launch issues
+Review architecture decisions
