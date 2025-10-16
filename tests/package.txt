@@ -6,3 +6,4 @@ Draft export compliance
 Draft marketing blurb
 Draft loyalty program
 Update compatibility notes
+Update FAQ section
