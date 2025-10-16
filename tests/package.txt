@@ -8,3 +8,4 @@ Note identity checks
 Draft SSO integration
 Draft mitigation guide
 Note blocker list
+Draft sales strategy
