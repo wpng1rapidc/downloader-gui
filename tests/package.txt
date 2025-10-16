@@ -1,3 +1,1 @@
-Document hotfix steps
-Refactor helper functions
-Draft testimonials list
+Record IDS findings
