@@ -4,3 +4,4 @@ Summarize rollout success
 Update alerting rules
 List vendor options
 Record NPS score
+Note identity checks
