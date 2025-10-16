@@ -2,3 +2,4 @@ Update backup policy
 Update threat model
 Draft contest plan
 Draft feature proposal
+Summarize permission gaps
