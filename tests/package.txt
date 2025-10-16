@@ -2,3 +2,4 @@ Note investment options
 Update portfolio deck
 Summarize SIEM setup
 Update editorial calendar
+Summarize journalist list
