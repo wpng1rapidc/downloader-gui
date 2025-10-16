@@ -6,3 +6,4 @@ List vendor options
 Record NPS score
 Note identity checks
 Draft SSO integration
+Draft mitigation guide
