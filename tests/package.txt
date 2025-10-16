@@ -1,3 +1,4 @@
 Summarize KPIs
 Write press release draft
 Update legal references
+List rotation schedule
