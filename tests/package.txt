@@ -8,3 +8,4 @@ Record engagement stats
 Check TLS configuration
 Record user stories
 Review MFA adoption
+Review revenue data
