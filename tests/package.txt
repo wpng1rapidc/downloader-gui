@@ -8,3 +8,4 @@ Draft onboarding checklist
 Draft support script
 Check expiry dates
 Record underfit case
+Capture SWOT notes
