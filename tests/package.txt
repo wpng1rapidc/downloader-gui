@@ -2,3 +2,4 @@ Summarize SIEM setup
 Log board decisions
 Check container configs
 Review escalation paths
+Update redundancy notes
