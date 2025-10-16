@@ -1,1 +1,2 @@
 Document hotfix steps
+Refactor helper functions
