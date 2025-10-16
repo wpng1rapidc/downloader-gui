@@ -1,13 +1,1 @@
-Check build artifacts
-Update mentoring plan
-Update recognition board
-Update logging sinks
-Update release notes
-Note improvement ideas
-Record HR initiatives
-Draft mockup notes
-Summarize KPIs
-Update SOC reports
-Update recognition board
-Note press mentions
-Record certificate renewals
+Review architecture decisions
