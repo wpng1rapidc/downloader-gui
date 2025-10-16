@@ -7,3 +7,4 @@ Record retention schedule
 Draft style samples
 Record hackathon ideas
 Note encryption methods
+Note deprecation warnings
