@@ -5,3 +5,4 @@ Note legal risks
 Record budget estimates
 Record retention schedule
 Draft style samples
+Record hackathon ideas
