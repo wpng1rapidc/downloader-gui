@@ -7,3 +7,4 @@ Note alignment checks
 Record user stories
 Log board decisions
 Draft cloud budget
+Record inflation impact
