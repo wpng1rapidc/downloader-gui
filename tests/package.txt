@@ -9,3 +9,4 @@ Check localization files
 Summarize validation data
 Record CSS tweaks
 Update SOC reports
+Update AUC results
