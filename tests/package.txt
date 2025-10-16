@@ -5,3 +5,4 @@ Draft feature proposal
 Summarize permission gaps
 Review pod limits
 Record engagement stats
+Check TLS configuration
