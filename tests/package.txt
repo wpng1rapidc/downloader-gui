@@ -2,3 +2,4 @@ List semantic changes
 Track training sessions
 Update dispute outcomes
 Summarize market trends
+Summarize bug triage
