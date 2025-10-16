@@ -1,9 +1,1 @@
-Record conversion data
-Summarize employee feedback
-Review billing items
-Update AB split logs
-Draft export compliance
-Draft marketing blurb
-Draft loyalty program
-Update compatibility notes
-Update FAQ section
+Note latency spikes
