@@ -1,12 +1,1 @@
-Record CI/CD pipeline
-Analyze customer data
-Note training epochs
-Review caching strategy
-List domain records
-Summarize audits
-Note pipeline DAG
-List UI components
-Track configuration drift
-Check breaking changes
-List influencer mentions
-Plan deployment strategy
+Summarize SIEM setup
