@@ -5,3 +5,4 @@ Review escalation paths
 Update redundancy notes
 Plan deployment strategy
 Summarize scaling notes
+Plan PR campaign
