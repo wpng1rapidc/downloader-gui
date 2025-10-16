@@ -10,3 +10,4 @@ Summarize KPIs
 Update SOC reports
 Update recognition board
 Note press mentions
+Record certificate renewals
