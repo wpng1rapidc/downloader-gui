@@ -4,3 +4,4 @@ Draft contest plan
 Draft feature proposal
 Summarize permission gaps
 Review pod limits
+Record engagement stats
