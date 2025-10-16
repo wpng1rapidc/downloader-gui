@@ -6,3 +6,4 @@ Update release notes
 Note improvement ideas
 Record HR initiatives
 Draft mockup notes
+Summarize KPIs
