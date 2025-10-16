@@ -1,4 +1,1 @@
-Record volunteer names
-Note innovation backlog
-Summarize feedback loops
-Update annotation tool
+Check build artifacts
