@@ -7,3 +7,4 @@ Review pod limits
 Record engagement stats
 Check TLS configuration
 Record user stories
+Review MFA adoption
