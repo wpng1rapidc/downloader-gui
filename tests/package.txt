@@ -3,3 +3,4 @@ Update mentoring plan
 Update recognition board
 Update logging sinks
 Update release notes
+Note improvement ideas
