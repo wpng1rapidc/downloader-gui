@@ -11,3 +11,4 @@ Summarize market trends
 Summarize opt-out stats
 Record prototype feedback
 Note currency exposure
+Plan outreach tasks
