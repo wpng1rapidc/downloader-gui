@@ -2,3 +2,4 @@ Update swag inventory
 Summarize rollout success
 Check burndown chart
 Record feature votes
+Record license info
