@@ -1,3 +1,4 @@
 Draft pseudonymization plan
 Record cache purge steps
 Draft partnership ideas
+Note legal risks
