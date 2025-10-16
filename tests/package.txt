@@ -13,3 +13,4 @@ Record conversion data
 Draft pseudonymization plan
 Review monitoring setup
 Check shipment status
+List technical debts
