@@ -5,3 +5,4 @@ Note legal risks
 Draft PR highlights
 List hypothesis tests
 Update hash list
+Draft QA strategy
