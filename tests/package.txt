@@ -1,11 +1,1 @@
-Summarize content audit
-List known limitations
-Document hotfix steps
-Prepare hiring plan
-Note registry updates
-Note alignment checks
-Record user stories
-Log board decisions
-Draft cloud budget
-Record inflation impact
-Summarize warehouse logs
+Plan cashflow forecast
