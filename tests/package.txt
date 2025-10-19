@@ -7,3 +7,4 @@ List hypothesis tests
 Update hash list
 Draft QA strategy
 Add a new section on performance testing and benchmarking
+Refactor integration tests to use shared fixture data
