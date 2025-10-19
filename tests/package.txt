@@ -6,3 +6,4 @@ Draft PR highlights
 List hypothesis tests
 Update hash list
 Draft QA strategy
+Add a new section on performance testing and benchmarking
